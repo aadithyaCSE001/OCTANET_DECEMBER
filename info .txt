@@ -1,0 +1,4 @@
+the restaurent.html would be the first page
+style.css is for restaurent.html
+booking.html and style2.css
+menu.html and style1.css
